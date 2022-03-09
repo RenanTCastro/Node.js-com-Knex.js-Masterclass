@@ -1,1 +1,1 @@
-# Node.js-com-Knex.js-Masterclass
+# SQL no Node.js com Knex.js | Masterclass Rocketseat
